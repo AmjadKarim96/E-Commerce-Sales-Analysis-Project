@@ -30,6 +30,4 @@ To explore the dashboard:
 ## Feedback and Contributions
 Your feedback and contributions are welcome! Feel free to submit issues, suggestions, or pull requests to enhance this project.
 
-## About the Author
-This project was created by [Your Name]. Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile).
 
